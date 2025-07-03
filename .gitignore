@@ -1,0 +1,12 @@
+*.env
+.venv/
+*_pycache/
+*_pycache*
+agent/dump.txt
+memory/session_summaries_index/*
+memory/session_logs/*
+media/
+mcp_servers/documents/*
+Class_notes.md
+HOWTORUN.md
+browser_agent.log

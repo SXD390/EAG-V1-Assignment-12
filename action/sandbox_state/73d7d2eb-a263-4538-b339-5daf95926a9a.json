@@ -1,0 +1,1756 @@
+{
+  "page_structure_0A": {
+    "page_structure": {
+      "total_interactive_elements": 173,
+      "categories": {
+        "navigation": 63,
+        "forms": 0,
+        "buttons": 110
+      }
+    },
+    "content": [
+      {
+        "type": "text",
+        "content": "Cloud Computing Services - Amazon Web Services (AWS)"
+      },
+      {
+        "type": "text",
+        "content": "[Skip to main content link]"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 2,
+        "text": "English",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 3,
+        "text": "Contact us",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 5,
+        "text": "Support",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 7,
+        "text": "My account",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "[Click here to return to Amazon Web Services homepage]"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 11,
+        "text": "Amazon Q",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 13,
+        "text": "Products",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 15,
+        "text": "Solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 17,
+        "text": "Pricing",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 19,
+        "text": "Documentation",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 22,
+        "text": "More",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 26,
+        "text": "Sign in",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 27,
+        "text": "Create Account",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Start building on AWS today"
+      },
+      {
+        "type": "paragraph",
+        "content": "Whether you're looking for generative AI, compute power, database storage, content delivery, or other functionality, AWS has the services to help you build sophisticated applications with increased flexibility, scalability, and reliability"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 28,
+        "text": "Get started for free",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 29,
+        "text": "Contact an AWS specialist",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "text",
+        "content": "[Developer Start building on AWS with short step-by-step tutorials Launch your first application]"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 39,
+        "text": "Drive business innovation by reducing costs, boosting productivity, and building resilience",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Agentic AI for every idea"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 47,
+        "text": "Discover the next evolution of agentic AI at the AWS Summit in New York City",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 56,
+        "text": "Start your agentic AI journey with flexible, scalable, enterprise-ready solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Explore our solutions"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 60,
+        "text": "View all solutions",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 61,
+        "text": "Filter by category",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 63,
+        "text": "Search categories",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Displaying 1-8 (29)"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 64,
+        "text": "Reimagine your business and enable security and compliance at scale",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 68,
+        "text": "Innovate faster for clinicians and patients with unmatched reliability, security, and data privacy",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 72,
+        "text": "Create exceptional experiences built for the future of retail",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "text",
+        "content": "[Technology Artificial intelligence Find curated solutions for use cases like language understanding and MLOps View solutions]"
+      },
+      {
+        "type": "text",
+        "content": "[Technology Migration and modernization Plan your migrations and modernize your applications and mainframes View solutions]"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 84,
+        "text": "Get solutions for advanced analytics, data management, and predictive analytics with ML",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 88,
+        "text": "Run code, manage data, and integrate applications—all without managing servers",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 92,
+        "text": "Develop cloud-centered applications and manage high performance computing (HPC) workloads",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 96,
+        "text": "Show 15 more",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Explore our products"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 98,
+        "text": "View all products",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 99,
+        "text": "Filter by category",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 101,
+        "text": "Search by product name or category",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Displaying 1-8 (34)"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 102,
+        "text": "The most capable generative AI–powered assistant for software development",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "text",
+        "content": "[Artificial Intelligence (AI) Amazon SageMaker Build, train, and deploy machine learning models at scale View product]"
+      },
+      {
+        "type": "text",
+        "content": "[Compute Amazon Elastic Compute Cloud (EC2) Virtual servers in the cloud View product]"
+      },
+      {
+        "type": "text",
+        "content": "[Storage Amazon Simple Storage Service (S3) Object storage built to retrieve any amount of data from anywhere View product]"
+      },
+      {
+        "type": "text",
+        "content": "[Security, Identity, & Compliance AWS Identity and Access Management Securely manage access to services and resources View product]"
+      },
+      {
+        "type": "text",
+        "content": "[Database Amazon DynamoDB Managed NoSQL database View product]"
+      },
+      {
+        "type": "text",
+        "content": "[Networking & Content Delivery Amazon CloudFront Global content delivery network View product]"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 130,
+        "text": "The first agentic AI service for transforming .NET, mainframe, and VMware workloads",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 134,
+        "text": "Show 15 more",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Training and certification"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 141,
+        "text": "Develop your AI career with training curated by AWS experts",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 150,
+        "text": "Build practical skills with 600+ free digital courses, diverse lab experiences, and more",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "[AWS Certification Validate your cloud skills with industry-recognized credentials Browse AWS Certifications]"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Powering customer innovation"
+      },
+      {
+        "type": "paragraph",
+        "content": "Discover how customers across industries boost employee productivity, deliver exceptional customer experiences, and streamline business processes."
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 163,
+        "text": "View customer stories",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "text",
+        "content": "Missing alt text value"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Why AWS?"
+      },
+      {
+        "type": "paragraph",
+        "content": "Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—use AWS to be more agile, lower costs, and innovate faster."
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 168,
+        "text": "Broadest and deepest set of cloud capabilities (0-trigger)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Broadest and deepest set of cloud capabilities"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 170,
+        "text": "Largest community of customers and partners (1-trigger)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Largest community of customers and partners"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 172,
+        "text": "Security you can trust (2-trigger)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Security you can trust"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 174,
+        "text": "Innovation that accelerates transformation (3-trigger)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Innovation that accelerates transformation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 176,
+        "text": "Most proven operational expertise (4-trigger)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Most proven operational expertise"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "AWS Global Infrastructure"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "The AWS Cloud spans 117 Availability Zones within 37 Geographic Regions, with announced plans for 13 more Availability Zones and 4 more AWS Regions in New Zealand, the Kingdom of Saudi Arabia, Chile, and the AWS European Sovereign Cloud."
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 178,
+        "text": "North America (tab-undefined-NA)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 179,
+        "text": "South America (tab-undefined-SA)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 180,
+        "text": "Europe (tab-undefined-EU)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 181,
+        "text": "Middle East (tab-undefined-ME)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 182,
+        "text": "Africa (tab-undefined-AF)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 183,
+        "text": "Asia Pacific (tab-undefined-AS)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 184,
+        "text": "Australia and New Zealand (tab-undefined-OC)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "AWS Coverage Regions"
+      },
+      {
+        "type": "text",
+        "content": "North America"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 186,
+        "text": "Geographic Regions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 188,
+        "text": "AWS GovCloud (US-East)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 190,
+        "text": "AWS GovCloud (US-West)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 192,
+        "text": "Canada (Central)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 194,
+        "text": "Canada West (Calgary)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 196,
+        "text": "Mexico (Central)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 198,
+        "text": "US West (Northern California)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 200,
+        "text": "US East (Northern Virginia)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 202,
+        "text": "US East (Ohio)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 204,
+        "text": "US West (Oregon)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Coming soon"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 206,
+        "text": "Edge Locations",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "paragraph",
+        "content": "The AWS Cloud in North America has 31 Availability Zones within 9 Geographic Regions, with 31 Edge Network Locations and 3 Edge Cache Locations."
+      },
+      {
+        "type": "text",
+        "content": "Ashburn, VA"
+      },
+      {
+        "type": "text",
+        "content": "Chicago, IL"
+      },
+      {
+        "type": "text",
+        "content": "Columbus, OH"
+      },
+      {
+        "type": "text",
+        "content": "Dallas/Fort Worth, TX"
+      },
+      {
+        "type": "text",
+        "content": "Hayward, CA"
+      },
+      {
+        "type": "text",
+        "content": "Houston, TX"
+      },
+      {
+        "type": "text",
+        "content": "Jacksonville, FL"
+      },
+      {
+        "type": "text",
+        "content": "Kansas City, MO"
+      },
+      {
+        "type": "text",
+        "content": "Los Angeles, CA"
+      },
+      {
+        "type": "text",
+        "content": "Minneapolis, MN"
+      },
+      {
+        "type": "text",
+        "content": "Montreal, QC"
+      },
+      {
+        "type": "text",
+        "content": "Nashville, TN"
+      },
+      {
+        "type": "text",
+        "content": "New York, NY"
+      },
+      {
+        "type": "text",
+        "content": "Palo Alto, CA"
+      },
+      {
+        "type": "text",
+        "content": "Phoenix, AZ"
+      },
+      {
+        "type": "text",
+        "content": "Philadelphia, PA"
+      },
+      {
+        "type": "text",
+        "content": "Portland, OR"
+      },
+      {
+        "type": "text",
+        "content": "Queretaro, MX"
+      },
+      {
+        "type": "text",
+        "content": "Salt Lake City, UT"
+      },
+      {
+        "type": "text",
+        "content": "San Jose, CA"
+      },
+      {
+        "type": "text",
+        "content": "Seattle, WA"
+      },
+      {
+        "type": "text",
+        "content": "South Bend, IN"
+      },
+      {
+        "type": "text",
+        "content": "St. Louis, MO"
+      },
+      {
+        "type": "text",
+        "content": "Tampa Bay, FL"
+      },
+      {
+        "type": "text",
+        "content": "Toronto, ON"
+      },
+      {
+        "type": "text",
+        "content": "Washington D.C."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Next steps"
+      },
+      {
+        "type": "text",
+        "content": "[Resources Analyst reports Read analyst insights]"
+      },
+      {
+        "type": "text",
+        "content": "[AWS Marketplace AWS Marketplace Deploy solutions to run on AWS]"
+      },
+      {
+        "type": "text",
+        "content": "[AWS Partner Network Work with AWS Partners Join the AWS Partner Network]"
+      },
+      {
+        "type": "text",
+        "content": "[Technical Resources The Amazon Builders' Library Learn how Amazon builds]"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Did you find what you were looking for today?"
+      },
+      {
+        "type": "paragraph",
+        "content": "Let us know so we can improve the quality of the content on our pages"
+      },
+      {
+        "type": "text",
+        "content": "Give us positive feedback"
+      },
+      {
+        "type": "text",
+        "content": "Give us constructive feedback"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 247,
+        "text": "Create an AWS account",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Learn"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 248,
+        "text": "What Is AWS?",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 249,
+        "text": "What Is Cloud Computing?",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 250,
+        "text": "What Is Generative AI?",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 251,
+        "text": "Cloud Computing Concepts Hub",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 252,
+        "text": "AWS Cloud Security",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 253,
+        "text": "What's New",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 254,
+        "text": "Blogs",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 255,
+        "text": "Press Releases",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 211,
+        "text": "Resources",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 256,
+        "text": "Getting Started",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 257,
+        "text": "Training",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 258,
+        "text": "AWS Trust Center",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 259,
+        "text": "AWS Solutions Library",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 260,
+        "text": "Architecture Center",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 261,
+        "text": "Product and Technical FAQs",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 262,
+        "text": "Analyst Reports",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 263,
+        "text": "AWS Partners",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 32,
+        "text": "Developer",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 264,
+        "text": "Developer Center",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 265,
+        "text": "SDKs & Tools",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 266,
+        "text": ".NET on AWS",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 267,
+        "text": "Python on AWS",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 268,
+        "text": "Java on AWS",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 269,
+        "text": "PHP on AWS",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 270,
+        "text": "JavaScript on AWS",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Help"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 271,
+        "text": "Contact Us",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 272,
+        "text": "File a Support Ticket",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 273,
+        "text": "AWS re:Post",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 274,
+        "text": "Knowledge Center",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 275,
+        "text": "AWS Support Overview",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 276,
+        "text": "Get Expert Help",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 277,
+        "text": "AWS Accessibility",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 278,
+        "text": "Legal",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 281,
+        "text": "English",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 282,
+        "text": "Back to top",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "paragraph",
+        "content": "Amazon is an Equal Opportunity Employer: Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age."
+      },
+      {
+        "type": "text",
+        "content": "[facebook]"
+      },
+      {
+        "type": "text",
+        "content": "[linkedin]"
+      },
+      {
+        "type": "text",
+        "content": "[instagram]"
+      },
+      {
+        "type": "text",
+        "content": "[twitch]"
+      },
+      {
+        "type": "text",
+        "content": "[youtube]"
+      },
+      {
+        "type": "text",
+        "content": "[podcasts]"
+      },
+      {
+        "type": "text",
+        "content": "[email]"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 291,
+        "text": "Privacy",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 292,
+        "text": "Site terms",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "text",
+        "content": "[Cookie Preferences]"
+      },
+      {
+        "type": "paragraph",
+        "content": "© 2025, Amazon Web Services, Inc. or its affiliates. All rights reserved."
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 294,
+        "text": "Hi, I can connect you with an AWS representative or answer questions you have on AWS.",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Close notification"
+      },
+      {
+        "type": "section",
+        "content": "Additional Interactive Elements",
+        "level": 2
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 76,
+        "text": "Find curated solutions for use cases like language understanding and MLOps",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 80,
+        "text": "Plan your migrations and modernize your applications and mainframes",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 106,
+        "text": "Build, train, and deploy machine learning models at scale",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 110,
+        "text": "Virtual servers in the cloud",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 114,
+        "text": "Object storage built to retrieve any amount of data from anywhere",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 118,
+        "text": "Securely manage access to services and resources",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 122,
+        "text": "Managed NoSQL database",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 126,
+        "text": "Global content delivery network",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 169,
+        "text": "Learn more about our capabilities",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 171,
+        "text": "Learn more about our partners",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 173,
+        "text": "Learn more about our security",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 175,
+        "text": "Learn more about how AWS can help you innovate",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 177,
+        "text": "Learn more about our infrastructure",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 289,
+        "text": "Link",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 33,
+        "text": "Start building on AWS with short step-by-step tutorials",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 34,
+        "text": "Launch your first application",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 38,
+        "text": "Technical and Business Leaders",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 40,
+        "text": "Unlock business potential",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 46,
+        "text": "AWS Summits",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 48,
+        "text": "View event details",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 55,
+        "text": "Artificial Intelligence (AI)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 57,
+        "text": "View agentic solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 65,
+        "text": "Industry",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 66,
+        "text": "View solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 69,
+        "text": "Industry",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 70,
+        "text": "View solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 73,
+        "text": "Industry",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 74,
+        "text": "View solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 77,
+        "text": "Technology",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 78,
+        "text": "View solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 81,
+        "text": "Technology",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 82,
+        "text": "View solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 85,
+        "text": "Technology",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 86,
+        "text": "View solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 89,
+        "text": "Technology",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 90,
+        "text": "View solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 93,
+        "text": "Technology",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 94,
+        "text": "View solutions",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 103,
+        "text": "Generative AI",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 104,
+        "text": "View product",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 107,
+        "text": "Artificial Intelligence (AI)",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 108,
+        "text": "View product",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 111,
+        "text": "Compute",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 112,
+        "text": "View product",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 115,
+        "text": "Storage",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 116,
+        "text": "View product",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 119,
+        "text": "Security, Identity, & Compliance",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 120,
+        "text": "View product",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 123,
+        "text": "Database",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 124,
+        "text": "View product",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 127,
+        "text": "Networking & Content Delivery",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 128,
+        "text": "View product",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 131,
+        "text": "Migration & Modernization",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 132,
+        "text": "View product",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 140,
+        "text": "Digital training",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 142,
+        "text": "Explore training",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 149,
+        "text": "AWS Skill Builder",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 151,
+        "text": "Get started",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 158,
+        "text": "AWS Certification",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 159,
+        "text": "Validate your cloud skills with industry-recognized credentials",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 160,
+        "text": "Browse AWS Certifications",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 167,
+        "text": "Play",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 212,
+        "text": "Analyst reports",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 213,
+        "text": "Read analyst insights",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 220,
+        "text": "AWS Marketplace",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 221,
+        "text": "AWS Marketplace",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 222,
+        "text": "Deploy solutions to run on AWS",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 229,
+        "text": "AWS Partner Network",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 230,
+        "text": "Work with AWS Partners",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 231,
+        "text": "Join the AWS Partner Network",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 238,
+        "text": "Technical Resources",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 239,
+        "text": "The Amazon Builders' Library",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 240,
+        "text": "Learn how Amazon builds",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 243,
+        "text": "Yes",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 245,
+        "text": "No",
+        "action": "click_element_by_index",
+        "category": "button"
+      }
+    ]
+  }
+}

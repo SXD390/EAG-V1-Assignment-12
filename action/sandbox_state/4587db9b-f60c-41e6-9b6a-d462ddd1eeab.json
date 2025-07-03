@@ -1,0 +1,1251 @@
+{
+  "page_structure_0A": {
+    "page_structure": {
+      "total_interactive_elements": 46,
+      "categories": {
+        "navigation": 27,
+        "forms": 3,
+        "buttons": 16
+      }
+    },
+    "content": [
+      {
+        "type": "text",
+        "content": "Inkers Observance | AI Based Construction Management Platform"
+      },
+      {
+        "type": "paragraph",
+        "content": "Announcing $3M Series A funding led by Ashish Kacholia"
+      },
+      {
+        "type": "text",
+        "content": "[Read more]"
+      },
+      {
+        "type": "text",
+        "content": "[Inkers logo]"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 3,
+        "text": "Demo",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 4,
+        "text": "Toggle theme",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 5,
+        "text": "Toggle menu",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Our core values"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Observance measures, while you construct!"
+      },
+      {
+        "type": "paragraph",
+        "content": "Transform your construction site with AI-powered real-time monitoring, 3D scanning, and actionable insights. From site scanning to BIM creation, Observance delivers the intelligence you need to improve project outcomes."
+      },
+      {
+        "type": "text",
+        "content": "[Learn how Owners rely on Observance]"
+      },
+      {
+        "type": "text",
+        "content": "[Learn how Contractors rely on Observance]"
+      },
+      {
+        "type": "text",
+        "content": "[Learn how Architects rely on Observance]"
+      },
+      {
+        "type": "text",
+        "content": "rely on Observance."
+      },
+      {
+        "type": "text",
+        "content": "Request a demo of Observance"
+      },
+      {
+        "type": "text",
+        "content": "[Request a demo of Observance]"
+      },
+      {
+        "type": "text",
+        "content": "Enter fullscreen"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Inkers Observance | AI Based Construction Management Platform"
+      },
+      {
+        "type": "paragraph",
+        "content": "Manage construction Project with Observance: 4D BIM, Snag List, Project Milestones, Scan to BIM services, Thermals & Deviation Analysis - powered by Inkers.ai."
+      },
+      {
+        "type": "paragraph",
+        "content": "Key features: Digital PMC, Digital twin technology, Scan to BIM, Real Time Project monitoring, 3D scanning, Advanced construction technology"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Core Features"
+      },
+      {
+        "type": "paragraph",
+        "content": "Our innovative solutions for the construction industry"
+      },
+      {
+        "type": "text",
+        "content": "As-Built BIM"
+      },
+      {
+        "type": "paragraph",
+        "content": "Automatically generates an accurate, detailed 3D as-built model of the project site or floor with precise measurements and timeline integration."
+      },
+      {
+        "type": "paragraph",
+        "content": "Highlights clashes and deviations with color-coded 3D textures mapped onto building surfaces, using AI-powered tracking."
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 14,
+        "text": "Project Milestones",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "paragraph",
+        "content": "Facilitates automated tracking of deliverables, quantities, timelines, and traceability from requirements to solutions."
+      },
+      {
+        "type": "text",
+        "content": "Project Milestones"
+      },
+      {
+        "type": "text",
+        "content": "Construction Timeline"
+      },
+      {
+        "type": "text",
+        "content": "Pause auto-cycling"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 16,
+        "text": "Structural Works",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Building A: 83% • Building B: 48%"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 17,
+        "text": "Architectural Works",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Building A: 46% • Building B: 12%"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 18,
+        "text": "Building A",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 19,
+        "text": "Building B",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 20,
+        "text": "MEP Works",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Building A: 31% • Building B: 7%"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 21,
+        "text": "Finishers Works",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "text",
+        "content": "Building A: 23% • Building B: 4%"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 321,
+        "text": "Scan to BIM",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "paragraph",
+        "content": "Converts point cloud data into Revit models for structural, architectural, and MEP disciplines."
+      },
+      {
+        "type": "text",
+        "content": "Deviation Analysis"
+      },
+      {
+        "type": "paragraph",
+        "content": "Compares as-built 3D models with BIM designs, using a distance texture with color gradients to identify and highlight deviations."
+      },
+      {
+        "type": "text",
+        "content": "Floor Plan As-Built Deviations"
+      },
+      {
+        "type": "text",
+        "content": "Floor Plan Deviations Analysis"
+      },
+      {
+        "type": "text",
+        "content": "Geometric Deviations Report"
+      },
+      {
+        "type": "text",
+        "content": "Thermals Analytics"
+      },
+      {
+        "type": "paragraph",
+        "content": "Incorporates thermal texture models to analyze moisture levels, proactively addressing potential issues."
+      },
+      {
+        "type": "text",
+        "content": "Thermal Profile Report"
+      },
+      {
+        "type": "text",
+        "content": "Thermal Profile Analysis"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Our Customers"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Sobha website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Precision Surveys website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Tarika Hotels website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit nhance website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit GHR Infra website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Pidilite website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Brigade Group website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit UKn Properties website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Military Engineer Services website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit MIDC website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit The Tamarind Tree website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Hyatt Centric website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit GMR Group website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Design Fluid website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Sterling and Wilson website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Icon Group website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Raynet Xpert website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Redbrick website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Prestige Group website]"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Projects with Colliers"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Godrej website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Bagmane website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Vega City website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Ozone website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Fortius Infra website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Divyasree website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Brookefield website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Koncept Ambience website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Puravankara website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Featherlite website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Ashirwad website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit The Botanika website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Srijan website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Embassy website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Elington website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Manyata website]"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Automated Milestones and Scheduling"
+      },
+      {
+        "type": "paragraph",
+        "content": "Witness the ease of tracking, managing, and executing construction projects like never before. No BIM? No problem! Observance can still craft your project milestones and schedule tracking with impeccable precision. Remember, with us, BIM is an option, not an obligation. BIM or not, we've got your analytics covered!"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Real-time Tracking"
+      },
+      {
+        "type": "paragraph",
+        "content": "Monitor construction progress in real-time with automated milestone tracking and instant updates."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Smart Scheduling"
+      },
+      {
+        "type": "paragraph",
+        "content": "AI-powered scheduling optimization that adapts to your project's unique requirements."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "BIM Integration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Seamlessly integrate with existing BIM models or work independently with our advanced tracking system."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Analytics Dashboard"
+      },
+      {
+        "type": "paragraph",
+        "content": "Comprehensive analytics and insights to make data-driven decisions for your construction projects."
+      },
+      {
+        "type": "text",
+        "content": "3D Segment Analysis"
+      },
+      {
+        "type": "text",
+        "content": "Analytics Dashboard"
+      },
+      {
+        "type": "text",
+        "content": "Image Segmentation"
+      },
+      {
+        "type": "text",
+        "content": "Progress Percentage"
+      },
+      {
+        "type": "text",
+        "content": "Quantity Analysis"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Next Generation Construction AI"
+      },
+      {
+        "type": "paragraph",
+        "content": "Transform construction data into actionable insights with advanced analytics for informed decisions."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Defects AI"
+      },
+      {
+        "type": "paragraph",
+        "content": "Detects 15 construction defects in real-time, minimizing downtime and rework costs."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Mesh Segmentation AI"
+      },
+      {
+        "type": "paragraph",
+        "content": "Segments meshes into 10 IFC classes, simplifying Mesh-to-BIM conversion and saving time."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Objects AI"
+      },
+      {
+        "type": "paragraph",
+        "content": "Identifies over 35 site objects to streamline inventory management and operations."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Health & Safety AI"
+      },
+      {
+        "type": "paragraph",
+        "content": "Uses facial recognition for real-time attendance, safety, and unknown person reports."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Our Numbers speak for themselves"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 268,
+        "text": "June 30th, 2025",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Total Scans"
+      },
+      {
+        "type": "text",
+        "content": "44 scans last week"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Scanned Area"
+      },
+      {
+        "type": "text",
+        "content": "Square feet of coverage"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Active Sites"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Weekly Scans"
+      },
+      {
+        "type": "text",
+        "content": "New scans every week"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "What Our Customers Say"
+      },
+      {
+        "type": "paragraph",
+        "content": "We work very closely with all of our customers to understand their needs, so much so, that we become partners!"
+      },
+      {
+        "type": "paragraph",
+        "content": "I am pleased with Colliers collaboration with Inkers in developing CoGence to make our project management business more future-ready. As we focus on innovative technology platforms to provide customized and productive solutions for the industry, where one can get advanced analytics and real-time reports quickly, I am positive that Inkers will continue to add value to the platform and enhance its viability across clients."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Argenio Antao"
+      },
+      {
+        "type": "text",
+        "content": "Chief Operating Officer - Colliers India"
+      },
+      {
+        "type": "paragraph",
+        "content": "At Machani Group, our approach to construction blends legacy with forward-thinking innovation. Partnering with Inkers and adopting the Observance platform has strengthened our ability to uphold that philosophy. The system's AI-powered analytics, provides real-time visibility into build quality—without disrupting on-site operations. This enables us to detect deviations early, ensure consistency, and enhance the durability of our developments. Observance is not just a technology layer—it's a strategic asset in delivering smarter, safer, and future-ready environments. Our engagement with Inkers is a step toward building excellence with insight and accountability."
+      },
+      {
+        "type": "text",
+        "content": "Shashidhar Raghavendra"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Shashidhar Raghavendra"
+      },
+      {
+        "type": "text",
+        "content": "CEO - Machani Group"
+      },
+      {
+        "type": "paragraph",
+        "content": "At Brigade, we continuously work with technologies that enhance the way we build—and Observance by Inkers has been a strong enabler in that vision. The platform's thermal analytics provide deep, non-intrusive insights into construction quality, allowing us to proactively safeguard the long-term integrity of our developments. It's not just about identifying issues early; it's about building smarter, more resilient spaces from the ground up. Our collaboration with Inkers reflects our shared commitment to innovation, precision, and enduring value."
+      },
+      {
+        "type": "text",
+        "content": "Sitanshu Singhdeo"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Sitanshu Singhdeo"
+      },
+      {
+        "type": "paragraph",
+        "content": "Vice President - Facility Management, Brigade Group"
+      },
+      {
+        "type": "paragraph",
+        "content": "We're delighted with our partnership with Inkers and the transformative impact Observance has had on our construction projects at CHI. By leveraging this innovative platform, we're not just staying ahead of the curve but setting new standards in the industry. With Observance, we're empowered with timely delivered scan-to-BIM outputs, advanced analytics, and automated progress tracking, enabling us to deliver projects more efficiently than ever before."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Prataap Wadhwa"
+      },
+      {
+        "type": "text",
+        "content": "Managing Director - Convention Hotels"
+      },
+      {
+        "type": "text",
+        "content": "Simple, Transparent Pricing"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Find the Perfect Solution for Your Project"
+      },
+      {
+        "type": "paragraph",
+        "content": "Select your product category to see relevant pricing plans tailored to your specific requirements."
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 269,
+        "text": "Owners & Contractors",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 8,
+        "text": "Architects",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 315,
+        "text": "LITHIC Pro",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 275,
+        "text": "Observance Eye",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "text",
+        "content": "Owners & Contractors"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Pricing Plans for Owners & Contractors"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Standard"
+      },
+      {
+        "type": "text",
+        "content": "Comprehensive solution for 1-3 construction sites"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "WHAT'S INCLUDED"
+      },
+      {
+        "type": "text",
+        "content": "Up to 10,000 sqft per scan"
+      },
+      {
+        "type": "text",
+        "content": "Textured 3D Model (Downloadable)"
+      },
+      {
+        "type": "text",
+        "content": "3D Walkthrough"
+      },
+      {
+        "type": "text",
+        "content": "Thermal Video & Texture"
+      },
+      {
+        "type": "text",
+        "content": "3D Segmented Model"
+      },
+      {
+        "type": "text",
+        "content": "2D As-Built Drawings"
+      },
+      {
+        "type": "text",
+        "content": "As-Built BIM (LOD350, LOD400)"
+      },
+      {
+        "type": "text",
+        "content": "Section, Annotation and other tools"
+      },
+      {
+        "type": "text",
+        "content": "Visual Defects & Task Manager"
+      },
+      {
+        "type": "text",
+        "content": "Structural Defects & Deviations"
+      },
+      {
+        "type": "text",
+        "content": "BIM Comparison & Deviations"
+      },
+      {
+        "type": "text",
+        "content": "CCTV Live Stream"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 273,
+        "text": "Contact Us",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "text",
+        "content": "Most Popular"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "content": "Enterprise"
+      },
+      {
+        "type": "text",
+        "content": "Everything in Standard plus advanced features"
+      },
+      {
+        "type": "text",
+        "content": "Everything in Standard, plus"
+      },
+      {
+        "type": "text",
+        "content": "Dedicated Account Manager"
+      },
+      {
+        "type": "text",
+        "content": "Unlimited Area & Frequency as Required"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 274,
+        "text": "Observance Sky",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 314,
+        "text": "Observance Eye",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "text",
+        "content": "Customizable Dashboard"
+      },
+      {
+        "type": "text",
+        "content": "Milestone Schedule"
+      },
+      {
+        "type": "text",
+        "content": "Multi-Scan Comparison"
+      },
+      {
+        "type": "text",
+        "content": "Custom Reports"
+      },
+      {
+        "type": "text",
+        "content": "Integration to Existing Platforms"
+      },
+      {
+        "type": "text",
+        "content": "Premium Support"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 276,
+        "text": "Contact Us",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Looking for a Custom Solution?"
+      },
+      {
+        "type": "paragraph",
+        "content": "Let's discuss your unique requirements and create a tailored plan for your organization."
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 277,
+        "text": "Interested in a Demo?",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 278,
+        "text": "Contact Sales",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Integrations"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Google Maps website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Procore website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Oracle website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Three.js website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit MS Project website]"
+      },
+      {
+        "type": "text",
+        "content": "[Visit Autodesk website]"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Schedule a Demo"
+      },
+      {
+        "type": "paragraph",
+        "content": "Pick a time that works for you. We are excited to show you how Inkers can revolutionize your construction projects."
+      },
+      {
+        "type": "text",
+        "content": "Select a Date & Time - Calendly"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Have a Quick Question?"
+      },
+      {
+        "type": "paragraph",
+        "content": "For sales inquiries or other questions, feel free to email us."
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 303,
+        "text": "sales@inkers.ai",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "What to Expect in Your Demo"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Live Platform Walkthrough"
+      },
+      {
+        "type": "text",
+        "content": "A comprehensive tour of our AI-powered features."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Personalized Q&A"
+      },
+      {
+        "type": "paragraph",
+        "content": "Get answers to questions about your specific project needs."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Custom Solutions"
+      },
+      {
+        "type": "paragraph",
+        "content": "Explore how Inkers can be tailored to fit your workflow."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Stay Updated"
+      },
+      {
+        "type": "paragraph",
+        "content": "Get monthly insights and updates delivered straight to your inbox."
+      },
+      {
+        "type": "interactive",
+        "element_type": "text_input",
+        "id": 308,
+        "text": "Subscribe",
+        "action": "click_element_by_index",
+        "category": "form"
+      },
+      {
+        "type": "text",
+        "content": "Unsubscribe anytime. No spam, we promise!"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Our Certifications"
+      },
+      {
+        "type": "text",
+        "content": "ISO 14001:2015"
+      },
+      {
+        "type": "text",
+        "content": "ISO 27001:2022"
+      },
+      {
+        "type": "text",
+        "content": "ISO 45001:2018"
+      },
+      {
+        "type": "text",
+        "content": "CMMI Level 5"
+      },
+      {
+        "type": "text",
+        "content": "BIM Certification"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Inkers Technology Pvt Ltd"
+      },
+      {
+        "type": "text",
+        "content": "India Office"
+      },
+      {
+        "type": "text",
+        "content": "The Work Address - Vaishnavi HSR"
+      },
+      {
+        "type": "text",
+        "content": "Layout, Bengaluru, Karnataka 560102"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Other Offices"
+      },
+      {
+        "type": "text",
+        "content": "United States"
+      },
+      {
+        "type": "text",
+        "content": "India Office 🇮🇳"
+      },
+      {
+        "type": "text",
+        "content": "Mumbai Office 🇮🇳"
+      },
+      {
+        "type": "text",
+        "content": "US Office 🇺🇸"
+      },
+      {
+        "type": "text",
+        "content": "Dubai Office 🇦🇪"
+      },
+      {
+        "type": "text",
+        "content": "[social-link]"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Products"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 313,
+        "text": "Observance",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 272,
+        "text": "Observance Eye",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 271,
+        "text": "LITHIC Pro",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 316,
+        "text": "Defect Analytics",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Company"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 317,
+        "text": "About",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 318,
+        "text": "Team",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 319,
+        "text": "Contact",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 320,
+        "text": "Pricing",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "content": "Services"
+      },
+      {
+        "type": "text",
+        "content": "[Scan to BIM]"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 322,
+        "text": "Observance Thermal",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 323,
+        "text": "Observance Sky",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 324,
+        "text": "CAD to BIM",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 325,
+        "text": "For Owners",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 326,
+        "text": "For Contractors",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 327,
+        "text": "Road & Infra",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "text",
+        "content": "Inkers Technology Pvt Ltd. All rights reserved."
+      },
+      {
+        "type": "section",
+        "content": "Additional Interactive Elements",
+        "level": 2
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 2,
+        "text": "Link",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 6,
+        "text": "Owners",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 7,
+        "text": "Contractors",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "nav_link",
+        "id": 10,
+        "text": "Request a demo (cta-demo-button)",
+        "action": "click_element_by_index",
+        "category": "navigation"
+      },
+      {
+        "type": "interactive",
+        "element_type": "text_input",
+        "id": 305,
+        "text": "Your name (name)",
+        "action": "input_text",
+        "category": "form"
+      },
+      {
+        "type": "interactive",
+        "element_type": "email_input",
+        "id": 307,
+        "text": "Your email address (email)",
+        "action": "input_text",
+        "category": "form"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 267,
+        "text": "Your browser does not support the video tag.",
+        "action": "click_element_by_index",
+        "category": "button"
+      },
+      {
+        "type": "interactive",
+        "element_type": "button",
+        "id": 270,
+        "text": "Architects",
+        "action": "click_element_by_index",
+        "category": "button"
+      }
+    ]
+  },
+  "clicked_index_1A": 3,
+  "completed_1A": true
+}
