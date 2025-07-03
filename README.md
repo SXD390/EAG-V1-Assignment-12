@@ -1,35 +1,36 @@
-# 🤖 Agentic Query Assistant with Enhanced Browser Agent
+# 🔍 Agentic Web Search Assistant
 
-A sophisticated AI agent system designed for web automation, document analysis, and intelligent query processing. This project implements a multi-agent architecture with specialized browser automation capabilities.
+An intelligent AI agent system designed for advanced web search, information retrieval, and real-time research capabilities. This project implements a multi-agent architecture specialized for finding, analyzing, and synthesizing information from the web.
 
 ## 🎯 Key Features
 
-### 🌐 Enhanced Browser Agent
-- **Stable Element Identification**: Immune to dynamic DOM changes and ID flickering
-- **Intelligent Form Automation**: Systematic form filling with semantic field recognition
-- **Multi-directional Agent Routing**: Seamless integration with perception, decision, and execution modules
-- **Smart Error Recovery**: Advanced fallback mechanisms for robust web automation
-- **Session State Management**: Persistent browser sessions with intelligent caching
+### 🌐 Advanced Web Search
+- **Real-time Information Retrieval**: Live web search with current data
+- **Multi-source Analysis**: Combines information from multiple web sources
+- **Intelligent Query Processing**: Natural language to search query optimization
+- **Content Synthesis**: Aggregates and summarizes findings from multiple sources
+- **Fact Verification**: Cross-references information across different websites
 
-### 🧠 Multi-Agent Architecture
-- **Perception Agent**: Natural language understanding and query classification
-- **Decision Agent**: Strategic planning and action determination  
-- **Browser Agent**: Specialized web automation and form filling
-- **Summarization Agent**: Content analysis and information extraction
-- **Memory System**: Context-aware conversation history and session management
+### 🧠 Smart Research Architecture
+- **Perception Agent**: Understands research intent and query context
+- **Decision Agent**: Plans optimal search strategies and source selection
+- **Web Search Agent**: Executes searches and retrieves relevant content
+- **Summarization Agent**: Analyzes and synthesizes information
+- **Memory System**: Maintains research context and builds knowledge base
 
-### 📊 MCP Integration
-- **35+ Browser Tools**: Comprehensive web automation toolkit
-- **Document Processing**: PDF, Word, and text analysis capabilities
-- **Web Search**: Real-time information retrieval
-- **FAISS Vector Search**: Semantic document search and retrieval
+### 📊 Search Integration
+- **Multiple Search Engines**: Google, Bing, and specialized search APIs
+- **Content Processing**: HTML parsing, text extraction, and structure analysis
+- **Document Analysis**: PDF, Word, and web page content processing
+- **Vector Search**: Semantic similarity search for relevant information
+- **Citation Tracking**: Source attribution and reference management
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 - Python 3.8+
-- Node.js (for browser automation)
-- Required Python packages (see `pyproject.toml`)
+- Internet connection for web search
+- API keys for search services (optional but recommended)
 
 ### Installation
 
@@ -41,245 +42,198 @@ A sophisticated AI agent system designed for web automation, document analysis, 
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt  # or use uv/poetry based on pyproject.toml
+   pip install -r requirements.txt
    ```
 
-3. **Configure environment**
+3. **Configure search APIs**
    ```bash
    cp .env.example .env
-   # Edit .env with your API keys and configurations
+   # Add your search API keys (Google Custom Search, Bing, etc.)
    ```
 
-4. **Start the agent**
+4. **Start the search assistant**
    ```bash
    python main.py
    ```
 
-## 💡 Usage Examples
+## 💡 Web Search Examples
 
-### Form Filling with Browser Agent
+### Comparative Research
 ```
-📝 You: Please go to the Google Form at https://docs.google.com/forms/d/e/1FAIpQLSf0gKdNlBtKtQb5MJlIvYHw-kXHj5k6BRKZ6BSqr0CYc9cSQQ/viewform and fill it out with the following information:
-
-- Is he/she married?: "Yes"
-- What course is he/her in?: "The school of AI"  
-- Which course is he/she taking?: "EAG"
-- What is his/her email id?: "your.email@example.com"
-- What is the name of your master?: "Sudarshan Iyengar"
-- What is his/her Date of Birth?: "15 Feb 1998"
-
-Please complete and submit the form.
+📝 You: Compare the latest features and specifications between iPhone 15 Pro and Samsung Galaxy S24 Ultra
 ```
 
-### Document Analysis
+### Market Analysis
 ```
-📝 You: Summarize the main points from the PDF document about Tesla's innovation strategy
-```
-
-### Web Research
-```
-📝 You: Find the latest differences between BMW 7 series and 5 series, reply in markdown format
+📝 You: What are the current trends in electric vehicle adoption globally? Include statistics and recent developments
 ```
 
-### Local Document Search
+### Technical Research
 ```
-📝 You: What is the relationship between Gensol and Go-Auto based on local documents?
+📝 You: Explain the differences between quantum computing approaches: gate-based vs annealing vs photonic
 ```
 
-## 🏗️ Architecture Overview
+### News and Current Events
+```
+📝 You: What are the latest developments in AI regulation across different countries?
+```
+
+### Product Research
+```
+📝 You: Find reviews and comparisons of the best laptops for machine learning in 2024, include pricing and specifications
+```
+
+### Academic Research
+```
+📝 You: Research the latest papers on large language model training efficiency and summarize key findings
+```
+
+## 🏗️ Search Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Perception    │────│    Decision     │────│    Execution    │
-│     Agent       │    │     Agent       │    │     Agents      │
+│   Query         │────│    Search       │────│   Information   │
+│  Processing     │    │   Execution     │    │   Synthesis     │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
          │                       │                       │
          │              ┌─────────────────┐              │
-         └──────────────│  Browser Agent  │──────────────┘
-                        │   (Enhanced)    │
+         └──────────────│  Web Research   │──────────────┘
+                        │     Agent       │
                         └─────────────────┘
                                 │
                     ┌─────────────────────┐
-                    │   MCP Tools         │
-                    │ • 35+ Browser Tools │
-                    │ • Document Tools    │
-                    │ • Search Tools      │
-                    │ • Memory Tools      │
+                    │   Search Tools      │
+                    │ • Web Search APIs   │
+                    │ • Content Scrapers  │
+                    │ • Text Processors   │
+                    │ • Citation Trackers │
                     └─────────────────────┘
 ```
 
-### Enhanced Browser Agent Features
+### Advanced Search Features
 
-#### 🔒 Stable Element Identification
-- **Semantic Mapping**: Elements identified by purpose (email, name, date) rather than dynamic indices
-- **Multi-layer Fallback**: Purpose → Attributes → Text → Type identification
-- **Index Change Immunity**: Continues working despite DOM modifications
-- **Smart Caching**: Reduces unnecessary DOM rescans
+#### 🎯 Intelligent Query Enhancement
+- **Context Understanding**: Interprets search intent and domain
+- **Query Expansion**: Adds relevant terms and synonyms
+- **Search Strategy**: Plans multi-step research approaches
+- **Source Diversification**: Searches across different types of sources
 
-#### 🎯 Intelligent Form Automation
-- **Form State Tracking**: Prevents repetitive actions and infinite loops
-- **Progress Monitoring**: Tracks completed fields and remaining tasks
-- **Error Recovery**: Advanced fallback strategies for failed actions
-- **Systematic Workflow**: Methodical progression through form fields
+#### 📊 Content Analysis
+- **Relevance Scoring**: Ranks sources by relevance and credibility
+- **Information Extraction**: Pulls key facts, figures, and insights
+- **Contradiction Detection**: Identifies conflicting information across sources
+- **Trend Analysis**: Spots patterns and trends in search results
 
-#### 📊 Element Stability Tracking
-- **Change Detection**: Monitors element stability across scans
-- **Signature-based Identification**: Creates persistent element fingerprints
-- **Stability Analysis**: Logs and analyzes DOM change patterns
-- **Performance Optimization**: Intelligent caching based on stability metrics
+#### 🔍 Research Capabilities
+- **Multi-step Research**: Builds knowledge through sequential searches
+- **Cross-verification**: Confirms facts across multiple sources
+- **Recent vs Historical**: Distinguishes between current and historical information
+- **Expert Source Identification**: Prioritizes authoritative sources
 
-## 🛠️ Configuration
+## 🛠️ Search Configuration
 
-### MCP Server Configuration
-Edit `config/mcp_server_config.yaml`:
-```yaml
-mcp_servers:
-  - name: "browser_mcp"
-    command: "python"
-    args: ["browserMCP/browser_mcp_stdio.py"]
-  - name: "document_mcp"  
-    command: "python"
-    args: ["mcp_servers/mcp_server_1.py"]
-```
-
-### Model Configuration
-Edit `config/models.json`:
-```json
-{
-  "primary_model": "gpt-4",
-  "fallback_model": "gpt-3.5-turbo",
-  "temperature": 0.7
-}
-```
-
-### Browser Profiles
-Edit `config/profiles.yaml` for browser-specific settings:
-```yaml
-browser_profiles:
-  default:
-    headless: false
-    viewport: "1920x1080"
-    timeout: 30000
-```
-
-## 📂 Project Structure
-
-```
-S12/
-├── agent/                          # Core agent implementations
-│   ├── browserAgent.py            # ⭐ Enhanced browser agent
-│   ├── browser_tasks.py           # LLM-based task generation
-│   ├── enhanced_agent_loop.py     # Multi-directional routing
-│   └── agent_loop3.py             # Main agent orchestration
-├── browserMCP/                     # Browser MCP tools
-│   ├── mcp_tools.py               # 35+ browser automation tools
-│   ├── dom/                       # DOM processing and analysis
-│   └── browser/                   # Browser session management
-├── mcp_servers/                    # MCP server implementations
-├── config/                         # Configuration files
-├── prompts/                        # LLM prompt templates
-├── memory/                         # Session and conversation memory
-└── utils/                          # Utility functions and helpers
-```
-
-## 🎯 Browser Agent Capabilities
-
-### Form Automation
-- ✅ **Input Field Detection**: Email, text, date, number fields
-- ✅ **Radio Button Selection**: Single and multiple choice handling
-- ✅ **Dropdown Navigation**: Select option identification and selection
-- ✅ **Checkbox Management**: Boolean and multi-select checkboxes
-- ✅ **Form Submission**: Intelligent submit button detection
-- ✅ **Validation Handling**: Error detection and recovery
-
-### Web Navigation
-- ✅ **URL Navigation**: Direct and relative URL handling
-- ✅ **Link Following**: Text and attribute-based link identification
-- ✅ **Page Interaction**: Scrolling, clicking, hovering
-- ✅ **Session Management**: Cookie and state persistence
-- ✅ **Multi-tab Support**: Tab creation and switching
-
-### Content Extraction
-- ✅ **Text Extraction**: Structured and unstructured content
-- ✅ **Element Analysis**: Attribute and property extraction
-- ✅ **Screenshot Capture**: Visual page state documentation
-- ✅ **Markdown Conversion**: Clean content formatting
-- ✅ **Data Scraping**: Table and list data extraction
-
-## 🔧 Troubleshooting
-
-### Common Issues
-
-#### Browser Agent Not Working
-1. **Check MCP servers are running**: Verify browser MCP is initialized
-2. **Verify element detection**: Use debug mode to see element mapping
-3. **Check stable element logs**: Look for stability warnings in output
-
-#### Element ID Flickering (Fixed!)
-- ✅ **Root Cause**: Dynamic index assignment in DOM scanning
-- ✅ **Solution**: Semantic element identification system implemented
-- ✅ **Result**: Immune to DOM changes and index modifications
-
-#### Form Filling Loops
-- ✅ **Root Cause**: Repetitive actions without state tracking
-- ✅ **Solution**: Form state management and progress tracking
-- ✅ **Result**: Systematic progression through form fields
-
-### Debug Mode
-Enable detailed logging:
+### Search API Setup
+Edit your `.env` file:
 ```bash
-LOGLEVEL=DEBUG python main.py
+# Google Custom Search
+GOOGLE_SEARCH_API_KEY=your_google_api_key
+GOOGLE_SEARCH_ENGINE_ID=your_search_engine_id
+
+# Bing Search API
+BING_SEARCH_API_KEY=your_bing_api_key
+
+# Additional APIs
+SERP_API_KEY=your_serp_api_key
 ```
 
-### Browser Debug
-View browser interactions:
-```bash
-BROWSER_DEBUG=true python main.py
+### Search Parameters
+Configure search behavior in `config/search_config.yaml`:
+```yaml
+search_settings:
+  max_results_per_query: 10
+  search_timeout: 30
+  content_max_length: 5000
+  enable_fact_checking: true
+  prioritize_recent: true
 ```
 
-## 🚀 Recent Enhancements
+## 📊 Search Capabilities
 
-### Browser Agent Fixes (Latest)
-- **🔒 Stable Element Identification**: Added semantic-based element mapping
-- **📊 Element Stability Tracking**: Implemented change detection and analysis
-- **🎯 Smart Form Automation**: Enhanced form state management and progress tracking
-- **🔄 Intelligent Caching**: Reduced unnecessary DOM rescans
-- **⚡ Performance Optimization**: 3-5x faster element identification
+### Information Types
+- ✅ **Current Events**: Real-time news and developments
+- ✅ **Product Comparisons**: Features, pricing, and reviews
+- ✅ **Technical Information**: Specifications, tutorials, and guides
+- ✅ **Market Research**: Trends, statistics, and analysis
+- ✅ **Academic Content**: Research papers, studies, and publications
+- ✅ **Historical Data**: Past events, timelines, and context
 
-### Architecture Improvements
-- **🌐 Multi-directional Routing**: Enhanced agent communication
-- **🧠 Intelligent Decision Making**: LLM-powered action planning
-- **📈 Advanced Error Recovery**: Sophisticated fallback mechanisms
-- **💾 Session Persistence**: Improved memory and state management
+### Output Formats
+- ✅ **Structured Summaries**: Organized key points and findings
+- ✅ **Comparison Tables**: Side-by-side feature/spec comparisons
+- ✅ **Markdown Reports**: Formatted research documents
+- ✅ **Citation Lists**: Source references and links
+- ✅ **Executive Summaries**: Concise overview of findings
+- ✅ **Trend Analysis**: Data visualization and insights
+
+## 🔧 Search Optimization
+
+### Best Practices
+1. **Specific Queries**: Use detailed, specific search terms
+2. **Context Provision**: Include relevant background information
+3. **Output Format**: Specify desired format (markdown, table, etc.)
+4. **Time Sensitivity**: Indicate if current information is needed
+5. **Source Preferences**: Mention preferred types of sources
+
+### Example Query Structures
+```
+📝 Good: "Compare cloud storage pricing between AWS S3, Google Cloud, and Azure for small businesses in 2024"
+
+📝 Better: "Find the latest pricing comparison for cloud storage services (AWS S3, Google Cloud Storage, Azure Blob) focusing on small business use cases under 1TB, include recent price changes and feature differences"
+```
+
+## 🚀 Recent Search Enhancements
+
+### Search Performance
+- **⚡ Faster Results**: Optimized search execution and content processing
+- **🎯 Better Relevance**: Improved ranking and filtering algorithms
+- **📊 Enhanced Analysis**: Better information synthesis and summarization
+- **🔄 Smart Caching**: Reduced redundant searches and faster follow-ups
+
+### Content Quality
+- **✅ Source Verification**: Enhanced credibility assessment
+- **📈 Trend Detection**: Better identification of current developments
+- **🔍 Deep Analysis**: More thorough content extraction and analysis
+- **📚 Citation Management**: Improved source tracking and attribution
+
+## 💡 Use Cases
+
+### Business Research
+- Market analysis and competitor research
+- Product comparisons and vendor evaluation
+- Industry trends and forecast analysis
+- Regulatory updates and compliance information
+
+### Academic Research
+- Literature reviews and paper discovery
+- Current research trends and methodologies
+- Expert opinions and scholarly debates
+- Statistical data and research findings
+
+### Personal Research
+- Product purchases and reviews
+- Travel planning and destination research
+- Health and wellness information
+- Technology trends and recommendations
 
 ## 📚 Documentation
 
-- **HOWTORUN.md**: Detailed setup and execution guide
-- **Class_notes.md**: Development notes and implementation details
-- **config/**: Configuration file documentation
-- **prompts/**: Prompt engineering templates and examples
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Implement changes with tests
-4. Submit a pull request
-5. Ensure all tests pass
-
-## 📄 License
-
-This project is part of an educational assignment for EAG (Emerging AI & Generative Technologies) coursework.
-
-## 🙏 Acknowledgments
-
-- **The School of AI**: Educational framework and guidance
-- **MCP Protocol**: Tool integration architecture
-- **OpenAI/Anthropic**: LLM capabilities and API access
-- **Browser Automation Community**: Tools and techniques inspiration
+- **Search Guide**: Advanced search techniques and strategies
+- **API Documentation**: Search service integration details
+- **Configuration**: Setup and customization options
+- **Examples**: Sample queries and expected outputs
 
 ---
 
-**🚀 Ready to automate the web with intelligent agents!**
+**🔍 Discover the web's knowledge with intelligent search!**
 
 
